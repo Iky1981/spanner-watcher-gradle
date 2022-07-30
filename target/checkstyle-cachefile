@@ -1,0 +1,12 @@
+#Sun May 22 22:37:42 BST 2022
+/Users/iky/IdeaProjects/spanner-change-watcher/samples/spanner-change-watcher-samples/src/main/java/com/google/cloud/spanner/watcher/sample/SampleData.java=1653248412498
+/Users/iky/IdeaProjects/spanner-change-watcher/samples/spanner-change-watcher-samples/src/main/java/com/google/cloud/spanner/watcher/sample/Samples.java=1652738297142
+/Users/iky/IdeaProjects/spanner-change-watcher/samples/spanner-change-watcher-samples/src/main/java/com/google/cloud/spanner/watcher/sample/SimpleChangeWatcherSample.java=1653255454726
+/Users/iky/IdeaProjects/spanner-change-watcher/samples/spanner-change-watcher-samples/src/main/java/com/google/cloud/spanner/watcher/sample/benchmarkapp/BenchmarkApplication.java=1652738297142
+/Users/iky/IdeaProjects/spanner-change-watcher/samples/spanner-change-watcher-samples/src/main/java/com/google/cloud/spanner/watcher/sample/benchmarkapp/Main.java=1652738297142
+/Users/iky/IdeaProjects/spanner-change-watcher/samples/spanner-change-watcher-samples/src/main/java/com/google/cloud/spanner/watcher/sample/benchmarkapp/Updater.java=1652738297142
+/Users/iky/IdeaProjects/spanner-change-watcher/samples/spanner-change-watcher-samples/src/main/java/com/google/cloud/spanner/watcher/sample/benchmarkapp/Watcher.java=1652738297142
+/Users/iky/IdeaProjects/spanner-change-watcher/samples/spanner-change-watcher-samples/src/test/java/com/google/cloud/spanner/watcher/sample/BuildTest.java=1652738297143
+/Users/iky/IdeaProjects/spanner-change-watcher/samples/spanner-change-watcher-samples/src/test/java/com/google/cloud/spanner/watcher/sample/it/ITSamplesTest.java=1652738297143
+configuration*?=9CC84C33BF3327BEA4CBC7293EECE6DB83B02DE2
+module-resource*?\:file\:/Users/iky/IdeaProjects/spanner-change-watcher/samples/spanner-change-watcher-samples/target/checkstyle-header.txt=25F6DC6B0E0E8C43BA44E8B5F4839CB7BE8256A7
