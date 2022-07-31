@@ -5,7 +5,16 @@
 plugins {
     id 'java'
     id 'maven-publish'
+    id 'application'
 }
+
+group 'com.google.cloud.spanner.watcher.sample.benchmarkapp'
+version '1.0-SNAPSHOT'
+
+application {
+    mainClass = "com.google.cloud.spanner.watcher.sample.benchmarkapp.Main"
+}
+
 
 repositories {
     mavenLocal()

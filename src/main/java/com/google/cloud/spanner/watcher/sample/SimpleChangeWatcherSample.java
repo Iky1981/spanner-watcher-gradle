@@ -97,7 +97,7 @@ int a = 11;
                 "Change received for table %s: %s%n", table.getTable(), row.asStruct().toString());
 
             System.out.printf("iky %s", row.getString(2));
-            System.out.printf("iky %s", row.getJson(2).toString());
+            //System.out.printf("iky %s", row.getJson(2).toString());
             /*a+=1;*/
             if (table.getTable().equals("Singers"))
             {
